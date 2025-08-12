@@ -6,7 +6,7 @@ class Tutorial01 extends ModTemplate {
 
     super(app);
 
-    this.name            = "helloW";
+    this.name            = "saito-new-mod";
     this.slug            = "hellow";
     this.description     = "Hello world!";
     this.categories       = "";
